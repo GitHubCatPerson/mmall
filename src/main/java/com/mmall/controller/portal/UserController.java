@@ -177,16 +177,6 @@ public class UserController {
         return response;
     }
 
-
-
-
-
-
-
-
-
-
-
     /**
      * 获取用户详细信息，判断登录状态，如果没有登录需要强制登录
      * @param session
